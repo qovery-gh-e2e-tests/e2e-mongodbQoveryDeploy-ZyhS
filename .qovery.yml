@@ -1,0 +1,7 @@
+application:
+  name: httpbin
+  project: mongodbQoveryDeploy82UtUg8c
+databases:
+- type: redis
+  version: 6
+  name: e2e-mongodb
